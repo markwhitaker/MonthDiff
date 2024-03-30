@@ -1,4 +1,4 @@
-name: Build site, deploy to Azure, scan with Dastardly
+name: Build and run tests
 
 on:
   push:
